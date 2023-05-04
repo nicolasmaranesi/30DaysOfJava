@@ -1,7 +1,7 @@
-package DIA1;
+package DAY1;
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Exercise2 {
 static Scanner scan = new Scanner(System.in);
     public static float inputRadius(){
         float radius;

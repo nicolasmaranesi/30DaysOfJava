@@ -1,0 +1,10 @@
+
+1) Write a program that asks for the user's  name and age, and then prints a message with his name and age. Use the Scanner class to read user input.
+
+2) Write a program that calculates the area of a circle. Prompts the user for the radius value and then prints the calculated area. Use the constant Math.PI to get the value of pi.
+
+3) Write a program that prompts the user for two numbers and multiples them. Then, print the result of the multiplication on the console.
+
+4) Write a program that prompts the user for an integer and determines if that number is even or odd. Print the result on the console.
+
+5) Write a program that prompts the user for an integer and determines if that number is positive or negative. Print the result to the console.

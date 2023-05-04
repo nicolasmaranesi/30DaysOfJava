@@ -1,8 +1,8 @@
-package DIA1;
+package DAY1;
 
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Exercise3 {
     static Scanner scan = new Scanner(System.in);
 
     public static void programAimMessage(){

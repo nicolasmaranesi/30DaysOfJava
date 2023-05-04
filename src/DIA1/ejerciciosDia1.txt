@@ -1,9 +1,0 @@
-1) Escribe un programa que pida al usuario su nombre y su edad, y luego imprima un mensaje con su nombre y su edad. Utiliza la clase Scanner para leer la entrada del usuario.
-
-2) Escribe un programa que calcule el área de un círculo. Pide al usuario el valor del radio y luego imprime el área calculada. Utiliza la constante Math.PI para obtener el valor de pi.
-
-3) Escribe un programa que solicite dos números al usuario y los multiplique. Luego, imprime el resultado de la multiplicación en la consola.
-
-4) Escribe un programa que solicite un número entero al usuario y determine si ese número es par o impar. Imprime el resultado en la consola.
-
-5) Escribe un programa que solicite un número entero al usuario y determine si ese número es positivo o negativo. Imprime el resultado en la consola.

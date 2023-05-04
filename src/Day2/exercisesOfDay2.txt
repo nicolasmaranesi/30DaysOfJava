@@ -1,0 +1,9 @@
+1) Create a class called "BankAccount" that has the account number and balance as attributes. The class must have a method called "deposit" that allows money to be added to the account and another method called "withdraw" that allows money to be withdrawn from the account. Make sure the balance is never negative.
+
+2) Create a class called "Rectangle" that has base and height as attributes. The class must have a method called "calculateArea" that calculates and returns the area of the rectangle, and another method called "calculatePerimeter" that calculates and returns the perimeter of the rectangle
+
+3) Create a class called "Person" that has name, age, and gender as attributes. The class must have a method called "greet" that prints a greeting message to the console, using the person's name.
+
+4) Create a class called "Book" that has title, author, and year of publication as attributes. The class must have a method called "printData" that prints the book's information (title, author and year of publish) to the console.
+
+5) Create a class called "Triangle" that has base and height as attributes. The class must have a method called "calculateArea" that calculates and returns the area of the triangle and another method called "calculatePerimeter" that calculates and returns the perimeter of the triangle.
