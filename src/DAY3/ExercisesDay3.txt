@@ -1,0 +1,9 @@
+Write a program that prompts the user for a whole number and then prints the multiplication table for that number from 1 to 10. If the user enters an invalid value (for example, a letter instead of a number), the program should display an error message and ask for the number again.
+
+Crea una lista de objetos "Persona" y agrega algunos elementos a la lista. Luego, utiliza un bucle para recorrer la lista y imprimir los nombres de las personas en la consola.
+
+Escribe un programa que pida al usuario un número entero y luego calcule su factorial. Si el usuario introduce un valor no válido, el programa debe mostrar un mensaje de error y volver a pedir el número.
+
+Crea una lista de números enteros y ordénalos de menor a mayor. Luego, utiliza un bucle para recorrer la lista y imprimir los números en la consola.
+
+Escribe un programa que pida al usuario una cadena de texto y luego cuente cuántas veces aparece cada letra en la cadena. Luego, imprime el resultado en la consola.
